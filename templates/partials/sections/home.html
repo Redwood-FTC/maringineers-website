@@ -59,16 +59,26 @@
             <div class="figure-svg">
               <img src="{{ get_url(path='images/hero/figure-svg.svg') }}" alt="figure-svg" />
             </div>
-            <img
-              src="{{ get_url(path=data.image) }}"
-              alt="hero-image"
+            <video
+            autoplay muted loop playsinline controls
+            src="{{ get_url(path=data.image) }}"
               style="
                 mask: url({{ get_url(path='images/hero/hero-mask-svg.png') }});
                 mask-repeat: no-repeat;
                 mask-size: contain;
                 mask-position: center center;
               "
-            />
+            ></video>
+            <!-- <img -->
+              <!-- src="{{ get_url(path=data.image) }}" -->
+              <!-- alt="hero-image" -->
+              <!-- style=" -->
+                <!-- mask: url({{ get_url(path='images/hero/hero-mask-svg.png') }}); -->
+                <!-- mask-repeat: no-repeat; -->
+                <!-- mask-size: contain; -->
+                <!-- mask-position: center center; -->
+              <!-- " -->
+            <!-- /> -->
             {% if data.video_thumb %}
             <div class="hero_figure-popup">
               <div class="thumb">

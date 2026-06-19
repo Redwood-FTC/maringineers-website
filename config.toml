@@ -60,8 +60,8 @@ latest_article = ""
 
 [extra]
 date_format = "%d %B, %Y"
-logo = "images/logo.png"
-footer_logo = "images/logo.png"
+logo = "images/logo.jpg"
+footer_logo = "images/logo.jpg"
 # google_analytics = "YOUR TOKEN FOR GOOGLE ANALYTICS"
 display_cta = true
 

@@ -1,11 +1,11 @@
-title       = "Hello, I am Natasha"
+title       = ""
 description = """
-# Ia am here personal business
+# Innovate the Future with Maringineers Robotics
 
-Enjoy team diversity and increase their networks among others people in various fields by
+Engineering Excellence in Robotics and Automation
 """
-button_name = "Contact me"
+button_name = "Become a Maringineer!"
 button_url  = "contact"
-image       = "images/hero/2960351.jpg"
-video_thumb = "images/hero/popup-thumb.png"
-video_url   = "https://www.youtube.com/embed/tgbNymZ7vqY"
+image       = "video/showcase.mp4"
+video_thumb = ""
+video_url   = ""
