@@ -1,0 +1,17 @@
+title = "About Us"
+image = "images/about/about.jpg"
+buttons = [
+    ""
+]
+description = """
+  ## Engineers at Heart
+
+  Maringineers is committed to inspiring the next generation of engineers and
+  roboticists through hands-on learning and competition.
+"""
+content = """
+  ### Our team focuses on creating innovative robotic solutions that blend \
+  engineering skills with teamwork. We are dedicated to nurturing students’ \
+  interests in robotics, coding, and engineering, preparing them for a \
+  successful future in technology.
+"""

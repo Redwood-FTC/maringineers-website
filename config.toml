@@ -1,0 +1,99 @@
+# The URL the site will be built for
+base_url = "https://maringineers.com"
+
+#
+minify_html = true
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+#
+default_language = "en"
+
+# [languages.en]
+title = "Maringineers"
+generate_feeds = true
+build_search_index = false
+
+taxonomies = [
+    { name = "tags", feed = true, render = true, paginate_by = 9 },
+    { name = "categories", feed = true, render = true, paginate_by = 9 },
+]
+
+[languages.en.translations]
+contact_me = "Become a member of the Maringineers"
+start_project = "Join the Team!"
+showing_all = "Showing All"
+hire_me_now = "Hire Me Now"
+get_in_touch = "Become a Maringineer!"
+see_details = "See Details"
+sitemap = "See Our Work"
+# 
+address = "Where to Find Us"
+phone = "Téléphone"
+email = "Email"
+categories_description = "Showing all posts with the category"
+tags_description = "Showing all posts with the tag"
+opening_hours = "Working hours"
+form_title = "Application Form"
+form_button = "Submit"
+form_input_name = "Name"
+form_input_email = "Email"
+form_input_message = "Why do you want to join the maringineers?"
+copyright = "Copyright (c) Maringineers 2026"
+
+# Menus
+homea = "Home"
+about = "About Us"
+service = "Why Choose Us?"
+work = ""
+resume = "Our Members"
+blog = "Blog"
+contact = "Contact"
+join = "Become a Maringineer!"
+
+# Sitemaps
+about_me = "Youtube"
+frequently_ask_question = "TikTok"
+privacy_and_policy = "Instagram"
+latest_article = ""
+
+[extra]
+date_format = "%d %B, %Y"
+logo = "images/logo.png"
+footer_logo = "images/logo.png"
+# google_analytics = "YOUR TOKEN FOR GOOGLE ANALYTICS"
+display_cta = true
+
+menus = [
+  { name = "homea", url = "#home" },
+  { name = "about", url = "#about" },
+  { name = "service", url = "#service" },
+  { name = "resume", url = "#resume" },
+  { name = "contact", url = "#contact" }
+]
+
+sitemaps = [
+  { name = "about_me", url = "https://www.youtube.com/@maringineer" },
+  { name = "frequently_ask_question", url = "https://www.tiktok.com/@maringineers" },
+  { name = "privacy_and_policy", url = "https://www.instagram.com/maringineers/" },
+  { name = "latest_article", url = "#" }
+]
+
+socials = [
+]
+
+[extra.address]
+phone = ""
+email = ""
+address = "Whatever the address of redwood is, doherty something or other"
+opening_hours = "Join using the link above!"
+
+[extra.form]
+active = true
+formspree_url = "https://formspree.io/f/meewbnzy"
+
+[extra.map]
+active = true
+latitude = "37.93848910673883"
+longitude = "-122.52353757915844"

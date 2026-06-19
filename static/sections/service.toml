@@ -1,0 +1,28 @@
+top_title = ""
+title     = "Why Choose Maringineers?"
+subtitle  = ""
+
+[[services]]
+cap = "100%"
+title   = "Team Enjoyability"
+content = "Each member of our team has reported having 100% fun during our meetings. This reflects the great benefits of joining Maringineers. Data provided by Alec S. (100% reliable)."
+# image   = "images/service/ui-ux.svg"
+
+[[services]]
+cap = "Robot"
+title   = "It's A Robot!"
+content = "Participants get to build a hopefully functional robot! I mean who wouldn't want to do that!? You could even become its driver!"
+# image   = "images/service/web.svg"
+
+[[services]]
+cap = "Why Not?"
+title   = "Do It For The Fun!"
+content = "While students do learn important skills from our program, that isn't the whole picture. Our team is chalk full of fun! Yes we want to be professional when handling equipment, but lets joke around every once in a while! The world gets borring sometimes, so lets put some fun into it!"
+image   = "images/service/creative.svg"
+
+[[services]]
+cap = "Learn"
+title   = "Learn New Skills!"
+content = "Taking part in the process of building a robot allows you to learn valuable skills with broad applications throughout STEM"
+image   = "images/service/branding.svg"
+

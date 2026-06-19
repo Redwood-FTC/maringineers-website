@@ -1,0 +1,28 @@
+top_title = "Empowering Innovation and Learning."
+title     = "Our Robotics Services"
+subtitle  = "Maringineers offers a comprehensive suite of services dedicated to advancing robotics education. From our workshop to competitions, our services ensure hands-on learning experiences."
+
+[[services]]
+cap = "Embark on Your Robotics Journey"
+title   = "Hands-On Workshop"
+content = "Our workshop (A.K.A., room 302) provide students with the tools and knowledge to build and program their own future projects, making learning both engaging and practical."
+image   = "images/portfolio/workshop.jpg"
+
+[[services]]
+cap = "Mentorship Programs"
+title   = "Oportunities to lead the way for others"
+content = "Our mentorship programs connect students with younger generations, offering insights and guidance to help them navigate their career paths in technology."
+image   = "images/portfolio/mentorship.jpg"
+
+[[services]]
+cap = "Competition Participation"
+title   = "Showcase Your Skills"
+content = "We participate in a yearly robotics competition, allowing students to showcase their skills and creativity while gaining invaluable experience by competing against other teams."
+image   = "images/portfolio/competition.jpg"
+
+[[services]]
+cap = "Technical Ability"
+title   = "Learn to Use the Tools of the Trade"
+content = "Refine your technical ability by a year spent working on metal, plastic, and programmatical, components"
+image   = "images/portfolio/tools.jpg"
+
