@@ -1,0 +1,18 @@
+top_title = "Innovative Features for Aspiring Engineers"
+title     = "Where Robotics Meets Education"
+desc = "Our team is designed to create an engaging learning environment that fosters innovation and creativity. With project-based learning, collaborative tools, and real-world applications, we prepare students for future challenges."
+
+[[testimonials]]
+cap = "Interactive Learning"
+comment = "Engaging Projects and Activities"
+desc = "Our interactive projects ensure that students not only learn but also have fun while exploring the world of robotics."
+    
+[[testimonials]]
+cap = "Skill Development"
+comment = "Tailored Learning Experiences"
+desc = "We believe in tailored learning experiences that cater to each student's interests and strengths, encouraging growth and achievement. That is why we have two different groups who work together in tandem, the engineers and the programers"
+    
+[[testimonials]]
+cap = "Life-long skills"
+comment = "Future Opportunities"
+desc = "Experiencing the processs from beginning to end, not in a sanitized classroom environment, will provide lifelong skills wherever you go"

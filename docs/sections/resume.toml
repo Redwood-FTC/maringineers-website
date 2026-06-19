@@ -1,0 +1,36 @@
+top_title       = "My Resumeresume"
+title           = "Hear from Our Members"
+subtitle        = "Our students share their experiences, highlighting the impact Maringineers has had on their learning journey."
+second_subtitle = ""
+educations_tab = "Current Members"
+experiences_tab = "Alumni"
+
+[[educations]]
+title   = "Brandon Neuman"
+content = "״Robotics has helped me find a passion in life and leading a team has been a great opportunity for my own growth as a collaborator and engineer. Plus building stuff is fun!״"
+time    = ""
+image     = "images/resume/brandon.jpg"
+  
+[[educations]]
+title   = "Reed Oberbauer"
+content = "״Robotics has helped me not only with my designing and building skills, but as a leader on the team it has helped me develop my leadership and teamwork abilities.״"
+time    = ""
+image     = "images/resume/reed.png"
+
+[[educations]]
+title   = "Milo Lee"
+content = "״Robotics allows me to build valuable teamwork, engineering, and programming skills, and serves as a great learning and bonding experience!״"
+time    = ""
+image     = "images/resume/brandon.jpg"
+
+[[educations]]
+title   = "Alec Saldivar"
+content = "״Designing and building a robot with this amazing group of people has really taught me valuable communication and leadership skills that have helped me with my education and personal life. Plus, I get to drive the robot!״"
+time    = ""
+image     = "images/resume/alec.png"
+
+[[experiences]]
+title   = "Rohan Nagashetti"
+content = "״Contributing to a robotics team has taught me important fundamentals in STEM related fields like math and the engineering design process as well as soft skills like leadership and constructive competition. It has prepared me incredibly well for a future career.״"
+time    = ""
+image     = "images/resume/rohan.png"

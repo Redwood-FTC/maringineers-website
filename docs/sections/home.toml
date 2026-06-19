@@ -1,0 +1,11 @@
+title       = ""
+description = """
+# Innovate the Future with Maringineers Robotics
+
+Engineering Excellence in Robotics and Automation
+"""
+button_name = "Become a Maringineer!"
+button_url  = "contact"
+image       = "video/showcase.mp4"
+video_thumb = ""
+video_url   = ""
