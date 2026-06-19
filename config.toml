@@ -1,5 +1,6 @@
 # The URL the site will be built for
-base_url = "https://maringineers.com"
+# base_url = "https://maringineers.com"
+base_url = "https://redwood-ftc.github.io/maringineers-website/"
 
 #
 minify_html = true

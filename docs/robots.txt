@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://maringineers.com/sitemap.xml
+Sitemap: https://redwood-ftc.github.io/maringineers-website/sitemap.xml
